@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (USB3+test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\30060006\source\repos\USB3+test\FTD3XX.h(158,2): warning C4091: 'typedef ': ignored on left of '_FT_STATUS' when no variable is declared
+C:\Users\30060006\source\repos\USB3+test\usb3.h(81,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 5 has type 'FT_HANDLE'
+C:\Users\30060006\source\repos\USB3+test\usb3.h(81,12): warning C4313: 'printf': '%x' in format string conflicts with argument 5 of type 'FT_HANDLE'
+C:\Users\30060006\source\repos\USB3+test\Source.cpp(150,12): warning C4101: 'rd_status': unreferenced local variable
+  USB3+test.vcxproj -> C:\Users\30060006\source\repos\USB3+test\x64\Debug\USB3test.exe
